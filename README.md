@@ -3,7 +3,7 @@ JSobsfucator is a simple script which aims to make your HTML file un-intelligibl
 
 <h3> How to use it </h3>
 Type your HTML source code there , then you will have a script . You can use it .<br>
-for instance if you generate the output of <h3>It has been such a cool day </h3> then you can verify its output by checking the output of the code in browsers console. There appears the above text written in the screen .
+for instance if you generate the output of "It has been such a cool day" then you can verify its output by checking the output of the code in browsers console. There appears the above text written in the screen .
 
 <h3> So , how exactly it works ? </h3> 
 
