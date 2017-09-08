@@ -1,0 +1,51 @@
+body {
+    padding-top: 50px;
+    background-color: #fcfcfc;
+}
+
+button::-moz-focus-inner {
+  border: 0;
+}
+
+#main{
+    text-align: center;
+}
+#midcontainer{
+    display: inline-block;
+    max-width: 400px;
+    height: 400px;
+    text-align: center;
+   
+    background: #ddd;
+    border-radius:1px solid #ccc ; 
+    margin: 15px;
+}
+#inputter{
+    display: inline-block;
+    width: 395px;
+    float: right;
+    height: 228px;
+    padding: 5px;
+    text-align: left;
+    text-align: justify;
+}
+#output{
+    display: inline-block;
+    width: 400px;
+    float: right;
+    height: 233px;
+}
+#convert{
+    display: inline-block;
+    width: 403px;
+    height: 30px;
+    border: 1px solid #3db5d8;
+    float: right;
+    background-color:#5bc0de ; 
+}
+
+textarea {
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 17px;
+}
+
